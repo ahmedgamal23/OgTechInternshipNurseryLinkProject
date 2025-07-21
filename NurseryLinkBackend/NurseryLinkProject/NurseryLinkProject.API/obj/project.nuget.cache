@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dHhsk8pRz4c=",
+  "success": true,
+  "projectFilePath": "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.API\\NurseryLinkProject.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed_gamal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\ahmed_gamal\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
