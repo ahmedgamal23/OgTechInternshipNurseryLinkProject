@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NurseryLinkProject.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f47ae27f36cbd1c0ce1b508690f009de33c921fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a34807b108fa17f479c883b32e4b6dac3afa0fcd")]
 [assembly: System.Reflection.AssemblyProductAttribute("NurseryLinkProject.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NurseryLinkProject.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
