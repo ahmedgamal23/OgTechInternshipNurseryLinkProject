@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,6 +12,7 @@ namespace NurseryLinkProject.Domain.Entities
         public int Id { get; set; }
         public string ClassName { get; set; } = string.Empty;
         public int TeacherId { get; set; }  // FK
+        [DeleteBehavior(DeleteBehavior.NoAction)]
         public User Teacher { get; set; } = default!; // Navigation property
     }
 }

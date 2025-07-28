@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NurseryLinkProject.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f47ae27f36cbd1c0ce1b508690f009de33c921fd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3103bdc94e4856c1f8473ac8fc55b32fba414994")]
 [assembly: System.Reflection.AssemblyProductAttribute("NurseryLinkProject.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NurseryLinkProject.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -11,3 +11,5 @@ E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\Nu
 E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\obj\Debug\net9.0\refint\NurseryLinkProject.Domain.dll
 E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\obj\Debug\net9.0\NurseryLinkProject.Domain.pdb
 E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\obj\Debug\net9.0\ref\NurseryLinkProject.Domain.dll
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\bin\Debug\net9.0\NurseryLinkProject.Domain.runtimeconfig.json
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\obj\Debug\net9.0\NurseryLinkProject.Domain.genruntimeconfig.cache

@@ -1,4 +1,7 @@
 
+using Microsoft.EntityFrameworkCore;
+using NurseryLinkProject.Domain.Data;
+
 namespace NurseryLinkProject.API
 {
     public class Program
@@ -8,17 +11,37 @@ namespace NurseryLinkProject.API
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
             builder.Services.AddControllers();
-            // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-            builder.Services.AddOpenApi();
+            
+            // add swagger configuration
+            builder.Services.AddSwaggerGen(builder =>
+            {
+                builder.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo
+                {
+                    Title = "NurseryLink API",
+                    Version = "v1",
+                    Description = "API for NurseryLink Project"
+                });
+            });
+
+            // Add connection to the database
+            builder.Services.AddDbContext<AppDbContext>(ops =>
+            {
+                ops.UseSqlServer(builder.Configuration.GetConnectionString("NurseryLinkConn"));
+            });
+
 
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
             {
-                app.MapOpenApi();
+                app.UseSwagger();
+                app.UseSwaggerUI(c =>
+                {
+                    c.SwaggerEndpoint("/swagger/v1/swagger.json", "NurseryLink API V1");
+                    c.RoutePrefix = string.Empty;
+                });
             }
 
             app.UseHttpsRedirection();
