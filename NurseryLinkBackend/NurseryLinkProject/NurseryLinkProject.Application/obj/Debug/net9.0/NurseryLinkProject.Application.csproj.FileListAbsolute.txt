@@ -1,0 +1,16 @@
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\bin\Debug\net9.0\NurseryLinkProject.Application.deps.json
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\bin\Debug\net9.0\NurseryLinkProject.Application.dll
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\bin\Debug\net9.0\NurseryLinkProject.Application.pdb
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\bin\Debug\net9.0\NurseryLinkProject.Shared.dll
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\bin\Debug\net9.0\NurseryLinkProject.Shared.pdb
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\obj\Debug\net9.0\NurseryLinkProject.Application.csproj.AssemblyReference.cache
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\obj\Debug\net9.0\NurseryLinkProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\obj\Debug\net9.0\NurseryLinkProject.Application.AssemblyInfoInputs.cache
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\obj\Debug\net9.0\NurseryLinkProject.Application.AssemblyInfo.cs
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\obj\Debug\net9.0\NurseryLinkProject.Application.csproj.CoreCompileInputs.cache
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\obj\Debug\net9.0\NurseryLinkProject.Application.sourcelink.json
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\obj\Debug\net9.0\NurseryL.7AB72690.Up2Date
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\obj\Debug\net9.0\NurseryLinkProject.Application.dll
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\obj\Debug\net9.0\refint\NurseryLinkProject.Application.dll
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\obj\Debug\net9.0\NurseryLinkProject.Application.pdb
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Application\obj\Debug\net9.0\ref\NurseryLinkProject.Application.dll

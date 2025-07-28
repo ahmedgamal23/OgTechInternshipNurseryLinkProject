@@ -1,0 +1,13 @@
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\obj\Debug\net9.0\NurseryLinkProject.Domain.csproj.AssemblyReference.cache
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\obj\Debug\net9.0\NurseryLinkProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\obj\Debug\net9.0\NurseryLinkProject.Domain.AssemblyInfoInputs.cache
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\obj\Debug\net9.0\NurseryLinkProject.Domain.AssemblyInfo.cs
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\obj\Debug\net9.0\NurseryLinkProject.Domain.csproj.CoreCompileInputs.cache
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\obj\Debug\net9.0\NurseryLinkProject.Domain.sourcelink.json
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\bin\Debug\net9.0\NurseryLinkProject.Domain.deps.json
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\bin\Debug\net9.0\NurseryLinkProject.Domain.dll
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\bin\Debug\net9.0\NurseryLinkProject.Domain.pdb
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\obj\Debug\net9.0\NurseryLinkProject.Domain.dll
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\obj\Debug\net9.0\refint\NurseryLinkProject.Domain.dll
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\obj\Debug\net9.0\NurseryLinkProject.Domain.pdb
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Domain\obj\Debug\net9.0\ref\NurseryLinkProject.Domain.dll

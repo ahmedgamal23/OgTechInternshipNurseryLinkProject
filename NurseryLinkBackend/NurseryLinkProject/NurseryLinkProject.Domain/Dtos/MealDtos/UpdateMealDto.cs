@@ -1,4 +1,5 @@
-﻿using NurseryLinkProject.Domain.Entities;
+﻿using NurseryLinkProject.Domain.Dtos.ActivityDtos;
+using NurseryLinkProject.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;

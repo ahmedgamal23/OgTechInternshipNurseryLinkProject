@@ -1,0 +1,12 @@
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Shared\bin\Debug\net9.0\NurseryLinkProject.Shared.deps.json
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Shared\bin\Debug\net9.0\NurseryLinkProject.Shared.dll
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Shared\bin\Debug\net9.0\NurseryLinkProject.Shared.pdb
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Shared\obj\Debug\net9.0\NurseryLinkProject.Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Shared\obj\Debug\net9.0\NurseryLinkProject.Shared.AssemblyInfoInputs.cache
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Shared\obj\Debug\net9.0\NurseryLinkProject.Shared.AssemblyInfo.cs
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Shared\obj\Debug\net9.0\NurseryLinkProject.Shared.csproj.CoreCompileInputs.cache
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Shared\obj\Debug\net9.0\NurseryLinkProject.Shared.sourcelink.json
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Shared\obj\Debug\net9.0\NurseryLinkProject.Shared.dll
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Shared\obj\Debug\net9.0\refint\NurseryLinkProject.Shared.dll
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Shared\obj\Debug\net9.0\NurseryLinkProject.Shared.pdb
+E:\freelance projects\OGTech Internship\NurseryLinkBackend\NurseryLinkProject\NurseryLinkProject.Shared\obj\Debug\net9.0\ref\NurseryLinkProject.Shared.dll
