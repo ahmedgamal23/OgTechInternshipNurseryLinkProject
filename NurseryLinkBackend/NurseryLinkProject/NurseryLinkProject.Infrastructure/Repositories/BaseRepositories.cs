@@ -3,14 +3,17 @@ using NurseryLinkProject.Application.Interfaces;
 using NurseryLinkProject.Domain.Data;
 using NurseryLinkProject.Shared.BaseModel;
 using System.Linq.Expressions;
+using System.Threading.Tasks;
 
 namespace NurseryLinkProject.Infrastructure.Repositories
 {
     public class BaseRepositories<T> : IBaseRepository<T> where T : class
     {
+        private AppDbContext _context;
         private DbSet<T> _dbSet { get; set; }
         public BaseRepositories(AppDbContext context)
         {
+            _context = context;
             _dbSet = context.Set<T>();
         }
 
@@ -68,17 +71,19 @@ namespace NurseryLinkProject.Infrastructure.Repositories
         public async ValueTask<BaseReturnModel<T>> AddAsync(T entity)
         {
             await _dbSet.AddAsync(entity);
+            await _context.SaveChangesAsync();
             return new BaseReturnModel<T>
             {
                 Data = entity
             };
         }
 
-        public bool Update(T entity)
+        public async Task<bool> Update(T entity)
         {
             try
             {
                 _dbSet.Update(entity);
+                await _context.SaveChangesAsync();
                 return true;
             }
             catch (Exception)
@@ -87,7 +92,7 @@ namespace NurseryLinkProject.Infrastructure.Repositories
             }
         }
 
-        public bool Delete(int id)
+        public async Task<bool> Delete(int id)
         {
             try
             {
@@ -95,6 +100,7 @@ namespace NurseryLinkProject.Infrastructure.Repositories
                 if (entity == null)
                     return false;
                 _dbSet.Remove(entity);
+                await _context.SaveChangesAsync();
                 return true;
             }
             catch (Exception)

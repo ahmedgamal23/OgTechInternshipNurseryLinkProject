@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NurseryLinkProject.API", "NurseryLinkProject.API\NurseryLinkProject.API.csproj", "{BE410EF0-C9FE-480A-BF5D-889D33854D49}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NurseryLinkProject.Infrastructure", "NurseryLinkProject.Infrastructure\NurseryLinkProject.Infrastructure.csproj", "{167693A4-F9AF-448B-ABCD-2721826E1A89}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NurseryLinkProject.Shared", "NurseryLinkProject.Shared\NurseryLinkProject.Shared.csproj", "{4D460784-02C8-4EB1-B845-0A3203A0F12D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NurseryLinkProject.MVC", "NurseryLinkProject.MVC\NurseryLinkProject.MVC.csproj", "{0D5ECE6A-3212-4FA1-B82E-B555190C3096}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,8 +41,15 @@ Global
 		{4D460784-02C8-4EB1-B845-0A3203A0F12D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4D460784-02C8-4EB1-B845-0A3203A0F12D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4D460784-02C8-4EB1-B845-0A3203A0F12D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D5ECE6A-3212-4FA1-B82E-B555190C3096}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D5ECE6A-3212-4FA1-B82E-B555190C3096}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D5ECE6A-3212-4FA1-B82E-B555190C3096}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D5ECE6A-3212-4FA1-B82E-B555190C3096}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28951121-456A-462A-89D3-C6257F4AA543}
 	EndGlobalSection
 EndGlobal
