@@ -32,9 +32,6 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Domain\\NurseryLinkProject.Domain.csproj": {
-                "projectPath": "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Domain\\NurseryLinkProject.Domain.csproj"
-              },
               "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Shared\\NurseryLinkProject.Shared.csproj": {
                 "projectPath": "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Shared\\NurseryLinkProject.Shared.csproj"
               }
@@ -56,12 +53,6 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "dependencies": {
-            "AutoMapper": {
-              "target": "Package",
-              "version": "[15.0.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
