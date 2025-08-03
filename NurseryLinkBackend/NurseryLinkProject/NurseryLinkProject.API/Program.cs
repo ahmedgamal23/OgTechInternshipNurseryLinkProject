@@ -1,6 +1,10 @@
 
+using AutoMapper;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using NurseryLinkProject.Domain.Data;
+using System.Reflection;
+
 
 namespace NurseryLinkProject.API
 {
@@ -29,6 +33,10 @@ namespace NurseryLinkProject.API
             {
                 ops.UseSqlServer(builder.Configuration.GetConnectionString("NurseryLinkConn"));
             });
+
+            // register auto mapper
+            builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
+
 
 
             var app = builder.Build();

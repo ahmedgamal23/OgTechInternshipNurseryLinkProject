@@ -32,6 +32,9 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
+              "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Application\\NurseryLinkProject.Application.csproj": {
+                "projectPath": "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Application\\NurseryLinkProject.Application.csproj"
+              },
               "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Domain\\NurseryLinkProject.Domain.csproj": {
                 "projectPath": "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Domain\\NurseryLinkProject.Domain.csproj"
               }
@@ -48,12 +51,20 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.0, )"
@@ -104,7 +115,85 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Application\\NurseryLinkProject.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Application\\NurseryLinkProject.Application.csproj",
+        "projectName": "NurseryLinkProject.Application",
+        "projectPath": "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Application\\NurseryLinkProject.Application.csproj",
+        "packagesPath": "C:\\Users\\ahmed_gamal\\.nuget\\packages\\",
+        "outputPath": "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmed_gamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Domain\\NurseryLinkProject.Domain.csproj": {
+                "projectPath": "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Domain\\NurseryLinkProject.Domain.csproj"
+              },
+              "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Shared\\NurseryLinkProject.Shared.csproj": {
+                "projectPath": "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Shared\\NurseryLinkProject.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[15.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -148,7 +237,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -185,7 +274,72 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Shared\\NurseryLinkProject.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Shared\\NurseryLinkProject.Shared.csproj",
+        "projectName": "NurseryLinkProject.Shared",
+        "projectPath": "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Shared\\NurseryLinkProject.Shared.csproj",
+        "packagesPath": "C:\\Users\\ahmed_gamal\\.nuget\\packages\\",
+        "outputPath": "E:\\freelance projects\\OGTech Internship\\NurseryLinkBackend\\NurseryLinkProject\\NurseryLinkProject.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ahmed_gamal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
